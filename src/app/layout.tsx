@@ -83,6 +83,9 @@ export const metadata: Metadata = {
     ],
     apple: "/apple-icon.png",
   },
+  verification: {
+    google: "google78975d6bdde02bb5",
+  },
   category: "Technology",
 };
 
