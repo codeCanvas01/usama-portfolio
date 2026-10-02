@@ -9,6 +9,7 @@ import FumiCaseCard from "./FumiCaseCard";
 import ContactCard from "./ContactCard";
 import ContactModal from "./ContactModal";
 import ProjectModal from "./ProjectModal";
+import { PROJECTS_LIST } from "./ProjectsSection";
 import { ArrowUpRight } from "lucide-react";
 import { AsteriskIcon } from "./ImpactSection";
 
@@ -247,6 +248,7 @@ export default function Hero() {
       <ProjectModal
         isOpen={isProjectOpen}
         onClose={() => setIsProjectOpen(false)}
+        project={PROJECTS_LIST[0]}
       />
     </section>
   );

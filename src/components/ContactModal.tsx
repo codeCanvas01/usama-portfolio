@@ -53,7 +53,7 @@ export default function ContactModal({ isOpen, onClose }: ContactModalProps) {
       {/* Click outside to close */}
       <div className="absolute inset-0" onClick={onClose} />
 
-      <div className="relative w-full max-w-lg bg-[#0e0f13] border border-white/15 rounded-2xl p-6 sm:p-8 text-white shadow-2xl z-10 overflow-hidden">
+      <div className="relative w-full max-w-lg max-h-[92dvh] overflow-y-auto overscroll-contain bg-[#0e0f13] border border-white/15 rounded-2xl p-6 sm:p-8 text-white shadow-2xl z-10">
         {/* Decorative corner glow */}
         <div className="absolute -top-24 -right-24 w-48 h-48 bg-[#e75325]/20 rounded-full blur-3xl pointer-events-none" />
 
