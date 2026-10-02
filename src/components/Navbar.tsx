@@ -108,7 +108,8 @@ export default function Navbar({ onOpenContact }: NavbarProps) {
                 { number: "02", label: "About Usama", href: "#about" },
                 { number: "03", label: "Shopify Services", href: "#services" },
                 { number: "04", label: "Client Case Studies", href: "#work" },
-                { number: "05", label: "Get In Touch", href: "#contact", action: onOpenContact },
+                { number: "05", label: "Shopify Solutions & FAQ", href: "#solutions" },
+                { number: "06", label: "Get In Touch", href: "#contact", action: onOpenContact },
               ].map((item) => (
                 <div key={item.label} className="group">
                   {item.action ? (

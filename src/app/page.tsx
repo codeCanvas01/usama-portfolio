@@ -5,6 +5,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 import ProcessSection from "@/components/ProcessSection";
 import WhyChooseMeSection from "@/components/WhyChooseMeSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import ShopifySolutionsFAQ from "@/components/ShopifySolutionsFAQ";
 import ContactSection from "@/components/ContactSection";
 import FooterSection from "@/components/FooterSection";
 
@@ -18,6 +19,7 @@ export default function Home() {
       <ProcessSection />
       <WhyChooseMeSection />
       <TestimonialsSection />
+      <ShopifySolutionsFAQ />
       <ContactSection />
       <FooterSection />
     </main>

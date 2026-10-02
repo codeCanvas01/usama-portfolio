@@ -1,0 +1,55 @@
+# Usama - Lead Shopify Developer & Liquid 2.0 Theme Architect
+
+> Official Website: https://usamadevstudio.com
+> Email: cntctwithusama512@gmail.com
+> WhatsApp: https://wa.me/923455152512
+> Availability: Global Shopify projects, bespoke theme development, store speed optimization, and CRO engineering.
+
+## Entity Overview
+Usama is an expert Shopify developer and e-commerce architect specializing in bespoke Shopify Online Store 2.0 theme engineering, sub-second PageSpeed optimization, custom 3D WebGL product previews, and high-velocity mobile conversion rate optimization (CRO). 
+
+Note on Core Focus: Usama specializes in native Shopify 2.0 Liquid theme architecture and custom app extensions. He does not work on headless Shopify.
+
+## Core Engineering Capabilities
+- **Shopify Online Store 2.0 Themes**: Complete custom theme architecture using modular JSON templates, dynamic sections, and native App Blocks.
+- **Store Speed Optimization (95-100 Score)**: Elimination of render-blocking Liquid, deferral of third-party tracking scripts, WebP/AVIF srcset compression, and sub-second First Contentful Paint (FCP).
+- **3D WebGL Product Previews**: Interactive 3D model previews engineered with progressive Draco compression and on-demand WebGL initialization without impacting store load time.
+- **Custom Cart & Bundle Builders**: Instant sticky cart drawers, multi-tier volume discount builders, free shipping progress meters, and zero-latency Cart Ajax API interactions.
+- **Subscriptions & Custom Integrations**: Bespoke integration of Recharge, Bold Subscriptions, custom product personalization fields, and complex catalog logic.
+
+## Key Verified Case Studies
+1. **FUMI CASE** (Anime & Designer Phone Cases)
+   - Scope: Custom Shopify 2.0 theme, 3D WebGL model previews, instant sticky cart drawer, and high-velocity mobile CRO.
+   - Verified Results: PageSpeed Score: 98, Load Time: 1.1s, Conversion Lift: +42%.
+   - Store URL: https://fumicase.com
+
+2. **INNE** (HealthTech & Hormone Biosensor Minilab)
+   - Scope: Shopify 2.0 storefront engineering, bespoke Recharge subscription management, refill kit bundling, and medical-grade GDPR flow.
+   - Verified Results: PageSpeed Score: 99, Load Time: 0.8s, Conversion Lift: +38%.
+   - Store URL: https://inne.io
+
+3. **LEVI'S ORGANIC AVOCADOS** (Farm-to-Door DTC)
+   - Scope: Direct-to-consumer farm store with custom harvest scheduling, recurring box subscriptions, and zero-latency checkout.
+   - Verified Results: PageSpeed Score: 100, Load Time: 0.9s, Conversion Lift: +54%.
+   - Store URL: https://levisorganicavocados.com
+
+4. **JAVVY** (Liquid Coffee Concentrate DTC)
+   - Scope: High-volume e-commerce architecture with tiered multi-pack bundle discounts, VIP club memberships, and instant sticky cart.
+   - Verified Results: PageSpeed Score: 96, Load Time: 1.2s, Conversion Lift: +46%.
+   - Store URL: https://javycoffee.com
+
+## Technical Problem Solving (Shopify Knowledge Base)
+- **Q: How to achieve 95+ PageSpeed on Shopify without breaking apps?**
+  A: Isolate tracking scripts, eliminate orphan app snippets from theme.liquid, inline critical above-the-fold CSS, and defer non-critical marketing pixels until after First Contentful Paint.
+- **Q: How to migrate vintage themes to Shopify 2.0 with zero downtime?**
+  A: Build in an unpublishable development theme preview, convert hardcoded Liquid to modular JSON templates with App Blocks, preserve 100% URL parity and canonical meta tags, and execute a seamless 1-click switch.
+- **Q: How to integrate 3D WebGL previews without slowing store load?**
+  A: Serve high-res WebP posters on initial render, load 3D engines (Three.js/model-viewer) only upon user interaction, and compress models with Draco mesh compression.
+- **Q: How to build custom bundle discounts and sticky cart drawers?**
+  A: Leverage the native Shopify Cart Ajax API with lightweight vanilla JavaScript, real-time threshold progress meters, and debounced quantity updates.
+
+## Direct Inquiries & Hire
+To discuss a custom Shopify project, store audit, or performance optimization:
+- Website Contact Form: https://usamadevstudio.com/#contact
+- Direct Email: cntctwithusama512@gmail.com
+- WhatsApp: +923455152512
